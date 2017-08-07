@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/Desktop/GifDisplaying/GifDisplayingSecond/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/mehrbod/Desktop/GifDisplaying/GifDisplayingSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f0ef700ccabaa4a4aad6614d58febdffd2b7cdfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/Desktop/GifDisplaying/GifDisplayingSecond/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c7675166bf02a7b185f4c16f58367aca8b8148c">
+        <dex dex="/home/mehrbod/Desktop/GifDisplaying/GifDisplayingSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4bc3c8a5875393cbc71d9408dce76cadcaa1b2c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mehrbod/.android/build-cache/225ddcc7a43163ee718247458d4d6254756326d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b70b6350ac88e7eeef91054f45f0739f395d7588">
+        <dex dex="/home/mehrbod/Desktop/GifDisplaying/GifDisplayingSecond/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb144aed3afeda5853d5789fe8526109add54464/classes.dex" />
+    </item>
+
+</items>
